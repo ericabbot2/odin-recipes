@@ -1,0 +1,1 @@
+Website to practice. Following Odin Project curriculum
